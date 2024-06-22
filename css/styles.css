@@ -1,0 +1,30 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/assets/bgtour.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    font-family: sans-serif;
+}
+.heading{
+    text-align: center;
+}
+.para{
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul li{
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
